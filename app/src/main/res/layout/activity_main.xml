@@ -24,7 +24,6 @@
         android:layout_width="160dp"
         android:layout_height="200dp"
         android:contentDescription="@string/app_name"
-        android:layout_marginLeft="16dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toStartOf="@+id/button"
         app:layout_constraintHorizontal_bias="1.0"
