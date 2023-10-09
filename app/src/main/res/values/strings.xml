@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">KotlinBasic</string>
+    <string name="textview">TextView</string>
+    <string name="hello_world">Hello World!</string>
+    <string name="btn_roll">Roll</string>
+    <string name="roll_text">1</string>
 </resources>
