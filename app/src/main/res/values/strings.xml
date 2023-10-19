@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">KotlinBasic</string>
+    <string name="txt_select">Click to Select a Lemon!</string>
 </resources>
